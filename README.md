@@ -85,10 +85,13 @@ Run each section sequentially to reproduce the analysis and visualizations.
 
 👨‍💼 Authors
 Developed by MSBA student team under the guidance of LBR Innovations LLC and the capstone research advisors.
-Shivam Kansara
-Saumya Padhi
-Akshay Sharma
-Om Patel
+#Shivam Kansara
+
+#Saumya Padhi
+
+#Akshay Sharma
+
+#Om Patel
 
 📄 License
 This project is for academic and non-commercial research purposes only. For commercial use, please contact the authors.
