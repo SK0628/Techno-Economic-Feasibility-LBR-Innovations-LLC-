@@ -1,4 +1,4 @@
-# Techno-Economic-Feasibility-LBR-Innovations-LLC
+# Techno-Economic Feasibility-LBR Innovations LLC
 
 📦 Project X: AI-Driven Strategic Analysis for Industrial 3D Printing
 🧠 Overview
